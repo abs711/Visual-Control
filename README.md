@@ -1,4 +1,4 @@
-# Project MaxPain
+# Visual Control
 Using egocentric vision to improve the imu-based prediction of future knee and ankle joint angles, in complex out-of-the-lab environments.
 
 Paper: https://ieeexplore.ieee.org/abstract/document/9729197
