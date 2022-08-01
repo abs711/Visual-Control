@@ -22,7 +22,7 @@ import device_utils
 
 if __name__ == "__main__":
 
-### SEQ LEN, TARGET LEN & PRED HORIZON LISTs don't work due to data formatting procedure
+### Seq Len, Target Len & Pred Horizon LISTs won't work due to data formatting procedure. Just put a single entry for those variables.
     param_vals = { 'num_epochs': [1000], 'batch_size':[100], 'minibatch_GD': True, 'num_trials':[5], 'shuffle': True,
                   
                    'seq_length':[10],'target_len':[1], 'pred_horizon':[30], # THESE ARE FIXED IN THE DATAMANAGER. NO LIST.
