@@ -8,4 +8,4 @@ Paper: https://ieeexplore.ieee.org/abstract/document/9729197
 
 NOTE: The dataset used in the paper would soon be hosted on a publicly available repository. 
 
-torchVision/MainPain/main.py is the main script to run. The models used in the paper are defined the UtilX/Vision4Prosthetics.py. A supporting document explaining the information flow between different scripts would be added soon!
+Run 'torchVision/MainPain/main.py' to start training a model. The models used in the paper are defined 'UtilX/Vision4Prosthetics_modules.py'. A supporting document explaining the information flow between different scripts would be added soon!
