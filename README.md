@@ -8,4 +8,4 @@ Paper: https://ieeexplore.ieee.org/abstract/document/9729197
 
 NOTE: The dataset used in the paper would soon be hosted on a publicly available repository. 
 
-torchVision/MainPain/main.py is the main script to run. A supporting document explaining the information flow between different scripts is coming soon!
+torchVision/MainPain/main.py is the main script to run. A supporting document explaining the information flow between different scripts would be added soon!
