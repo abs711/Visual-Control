@@ -6,4 +6,4 @@ Paper: https://ieeexplore.ieee.org/abstract/document/9729197
 ![Optical_Flow_boe_font_updated2](https://user-images.githubusercontent.com/42185229/177664658-80144c7c-4224-4de4-aeac-fae5744160ac.png)
 
 
-# Coming soon!
+A document explaining the information flow between scripts is coming soon!
