@@ -10,20 +10,20 @@ Here we fuse motion capture data with egocentric videos to improve the joint ang
 
 In the following video, we can see that the information about the future movements of the subject is available in their visual field, both in terms of what lies ahead of them e.g. stairs or chairs, as well as how they move their head and eyes for path-planning. Thus, vision acts as a "window into the future".
 
-https://user-images.githubusercontent.com/42185229/235019645-e24221f2-4574-41f7-b210-8a200a748710.mp4
+https://user-images.githubusercontent.com/42185229/235021782-b2771cb3-7237-499f-9533-f7dfcfc0a35b.mp4
 
 
 ## Egocentric vision improves the prediction of lower limb joint angles
 
 The following videos and the corresponding figures show example maneuvers and the improvement achieved over just kinematics inputs (red line), by fusing kinematics and vision inputs (green line).
 
-https://user-images.githubusercontent.com/42185229/235016479-a5fd240d-c245-4f59-8155-1cf356616a77.mp4
+
+https://user-images.githubusercontent.com/42185229/235022002-4f8b3534-6858-4336-b426-7794f708f6d1.mp4
 
 ![Picture7](https://user-images.githubusercontent.com/42185229/235016499-e5d20136-b3bd-49ab-8f55-45dfff6e6196.png)
 
 
-
-https://user-images.githubusercontent.com/42185229/235016508-85f2a725-7a28-45b1-b9ec-be2279edae0d.mp4
+https://user-images.githubusercontent.com/42185229/235022128-0a2b60b6-2710-40c0-8c16-3aa05f71ec4e.mp4
 
 ![Picture5](https://user-images.githubusercontent.com/42185229/235016525-484c83f7-026a-4596-a24c-eee5ce55b29a.png)
 
