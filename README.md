@@ -9,7 +9,9 @@ Paper: https://ieeexplore.ieee.org/abstract/document/9729197
 Here we fuse motion capture data with egocentric videos to improve the joint angle prediction performance in complex uncontrolled environment like public classrooms, atrium and stairwells. The optical flow features are generated from the raw images, by PWC-net trained on the synthetic MPI-Sintel dataset, and processed by a LSTM before being fused with the joint kinematics stream.
 
 In the following video, we can see that the information about the future movements of the subject is available in their visual field, both in terms of what lies ahead of them e.g. stairs or chairs, as well as how they move their head and eyes for path-planning. Thus, vision acts as a "window into the future".
-https://youtu.be/axBb37dWbko
+
+https://user-images.githubusercontent.com/42185229/235019645-e24221f2-4574-41f7-b210-8a200a748710.mp4
+
 
 ## Egocentric vision improves the prediction of lower limb joint angles
 
