@@ -40,4 +40,6 @@ In the figure below, we compared performance improvements due to vision with inc
 
 The dataset used in the paper can be accessed through the following repository: https://github.com/abs711/The-way-of-the-future . The detailed description of the dataset is available in the following publication: https://doi.org/10.1038/s41597-023-01932-7
 
-Run 'torchVision/MainPain/main.py' to start training a model. The models used in the paper are defined 'UtilX/Vision4Prosthetics_modules.py'. 
+## Training the models
+
+Run 'torchVision/MainPain/main.py' to start training a model. The models used in the paper are defined 'UtilX/Vision4Prosthetics_modules.py'.
