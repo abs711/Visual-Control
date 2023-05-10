@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/42185229/235021782-b2771cb3-7237-499f-
 
 ## Egocentric vision improves the prediction of lower limb joint angles
 
-The following videos and the corresponding figures show example maneuvers and the improvement achieved over just kinematics inputs (red line), by fusing kinematics and vision inputs (green line).
+The following videos (frames dropped to shorten the videos) and the corresponding figures show example maneuvers and the improvement achieved over just kinematics inputs (red line), by fusing kinematics and vision inputs (green line).
 
 
 https://user-images.githubusercontent.com/42185229/235022002-4f8b3534-6858-4336-b426-7794f708f6d1.mp4
